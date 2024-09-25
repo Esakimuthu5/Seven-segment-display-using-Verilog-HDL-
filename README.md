@@ -90,12 +90,13 @@ end
 endmodule
 ```
 ## Sample output
-```
+
 ![7S](https://github.com/user-attachments/assets/a65f0633-9280-4bac-badd-76cebfa052c7)
-```
-```
+
+
+
 ![7s 2](https://github.com/user-attachments/assets/34e768c8-0ea8-4106-a7a9-b3a20f9c3176)
-```
+
 
 ## Conclusion
 In this experiment, a seven-segment display driver was successfully designed and simulated using Verilog HDL. The simulation results confirmed that the display correctly represented the digits 0 to 9 based on the 4-bit binary input. The testbench effectively verified the functionality of the seven-segment display by applying various input combinations and observing the corresponding segment outputs. This experiment highlights how Verilog HDL can be used to control hardware components like a seven-segment display in digital systems.
